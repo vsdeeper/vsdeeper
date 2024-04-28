@@ -1,4 +1,4 @@
-### Hi there 👋
+### Como's confession 👋
 
 <!--
 **vsdeeper/vsdeeper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I now focus on front-end visual development, it comes from my own interests and ideas, and dedicated to generating projects, pages, components, etc. through configuration data.
+- 📫 Email: vsdeeper@qq.com, WeChat: cscomo.
