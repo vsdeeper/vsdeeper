@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 
 ### Tech stack
 
-[![My Skills](https://skillicons.dev/icons?i=js,scss,vue,react,angular,nodejs,nestjs,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,typescript,scss,vue,react,angular,nodejs,nestjs,mysql)](https://skillicons.dev)
 
 ### Tools I use
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,vite,webpack,gulp,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,vite,webpack,gulp,git,github,vitest)](https://skillicons.dev)
