@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I now focus on front-end visual development, it comes from my own interests and ideas, and dedicated to generating projects, pages, components, etc. through configuration data.
-- 📫 Email: vsdeeper@qq.com, WeChat: cscomo.
+- 📫 Email: vsdeeper@qq.com WeChat: cscomo
 
 ### Tech stack
 
