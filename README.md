@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 - 🌱 I now focus on front-end visual development that mainly contains [vswift](https://github.com/vsdeeper/vswift) , [vswift-components](https://github.com/vsdeeper/vswift-components) , [visual-development](https://github.com/vsdeeper/visual-development) three git projects, it comes from my own interests and ideas, and dedicated to generating code through configuration data.
 - 🔭 Preview vswift [home](https://vsdeeper.github.io/) to understand my thoughts.
-- 📫 Email: vsdeeper@qq.com , WeChat: cscomo 💬
 - 🤔 I have plans to change my job recently, target city is Shenzhen or Wuhan, contact me 😄
+- 📫 Email: vsdeeper@qq.com , WeChat: cscomo 💬
 
 ### Tech stack
 
